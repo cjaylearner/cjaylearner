@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cjaylearner
 - 👀 I’m interested in frontend web development.
 - 🌱 I’m currently learning to master flexbox and grid for proper layout.
-- 💞️ I’m looking to collaborate on fronten web development project.
+- 💞️ I’m looking to collaborate on frontend web development project.
 - 📫 How to reach me is through cjaylearner@gmail.com
 
 <!---
